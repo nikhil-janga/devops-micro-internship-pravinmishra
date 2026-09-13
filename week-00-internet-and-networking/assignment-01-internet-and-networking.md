@@ -219,7 +219,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-https://www.linkedin.com/in/nikhil-janga-7a056428b/
+https://lnkd.in/p/dwgJu-3A
 ```
 
 ---
@@ -228,34 +228,25 @@ https://www.linkedin.com/in/nikhil-janga-7a056428b/
 
 Paste the full text of your LinkedIn post here:
 
-🚀 Week 0 of my DevOps journey is complete!
+Week 0 of my DevOps Micro Internship (DMI) Campus Program — Agentic AI
 
-I’m excited to share my learning and hands-on progress as part of the DevOps Micro Internship (DMI) — Cohort 3 by Pravin Mishra.
+I’ve started my DevOps journey with the fundamentals of Internet, Networking, and application architecture. Here’s what I learned this week:  
 
-This week helped me build a strong foundation in DevOps concepts and understand how different technologies work together.
+ChatGPT I learned how to use ChatGPT as a learning assistant to understand technical concepts in a simple way. I explored networking protocols using real-life examples.  
 
-🔹 ChatGPT
-I explored how AI tools such as ChatGPT can support learning, problem-solving, technical research, and understanding complex concepts through simple explanations and practical examples.
+Internet & Networking I learned how data travels across the Internet using packet switching, IP addresses, TCP/IP, and HTTP/HTTPS. I also understood how a website hosted in one country can be accessed by users globally.  
 
-🔹 Internet & Networking
-I learned the fundamentals of computer networking, including how devices communicate over a network, what protocols are, and how different networking concepts support communication between systems.
+App Architecture I learned the difference between 2-tier and 3-tier architecture. • 2-tier: Frontend → Database • 3-tier: Frontend → Backend → Database I also explored technologies such as HTML, CSS, JavaScript, Node.js, Express.js, and MySQL. 
 
-🔹 App Architecture
-I learned about application architecture and how different components of an application interact with each other. I explored concepts such as frontend, backend, databases, APIs, and the three-tier architecture.
+DNS I learned how DNS converts a human-readable domain name into an IP address and how an A record can connect a domain to an IPv4 address. 
 
-🔹 DNS
-I learned how the Domain Name System (DNS) works and how domain names are translated into IP addresses. I also understood the role DNS plays when users access websites and applications.
+VS Code Setup I practiced using the VS Code integrated terminal and basic commands in PowerShell. Overall, Week 0 helped me understand the basic building blocks behind how applications communicate and work over the Internet. Looking forward to learning and building more in the coming weeks!
 
-🔹 VS Code Setup
-I configured Visual Studio Code as my development environment, selected a suitable theme, opened the integrated terminal, and practiced using basic terminal commands.
+P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/nikhil-janga.html · Start your DevOps journey: https://lnkd.in/dX-DHu5b
+#DMIByPravinMishra
 
-💡 Key Takeaway:
-This week helped me understand that DevOps is not only about tools. It is about understanding how applications, infrastructure, networking, development, and operations work together.
-
-I’m looking forward to building more hands-on skills in the upcoming weeks and continuing my journey toward becoming a Cloud/DevOps Engineer. ☁️🚀
-
-#DevOps #DevOpsJourney #CloudComputing #Networking #DNS #VSCode #CloudEngineer #Learning #DMI #AgenticAI
-P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/nikhil-janga.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=cohort3
+Pravin Mishra
+Anjana Muthunayake
 
 ---
 
