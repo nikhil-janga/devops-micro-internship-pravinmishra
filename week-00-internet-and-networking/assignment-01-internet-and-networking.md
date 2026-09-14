@@ -244,7 +244,6 @@ VS Code Setup I practiced using the VS Code integrated terminal and basic comman
 
 P.S. This post is part of the DevOps Micro Internship (DMI) — Campus — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/nikhil-janga.html · Start your DevOps journey: https://lnkd.in/dX-DHu5b
 #DMIByPravinMishra
-
 Pravin Mishra
 Anjana Muthunayake
 
