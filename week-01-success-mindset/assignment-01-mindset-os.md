@@ -166,7 +166,7 @@ My Version 2.0 was not created by one major achievement. It was built through hu
 
 Paste your link here:
 
-https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub
+https://medium.com/@janganikhil2005/week-0-of-my-devops-micro-internship-internet-networking-application-architecture-1630a3268dd3?postPublishedType=initial
 
 ---
 
