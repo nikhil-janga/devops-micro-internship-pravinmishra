@@ -131,7 +131,7 @@ Week 01 → Success Mindset
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics |✅ Completed| ✅ Completed|https://lnkd.in/p/dwgJu-3A| — |https://medium.com/@janganikhil2005/week-0-of-my-devops-micro-internship-internet-networking-application-architecture-1630a3268dd3?postPublishedType=initial|
-| 01 | Success Mindset | ✅ Completed| ✅ Completed |https://lnkd.in/p/dwgJu-3A|https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub|
+| 01 | Success Mindset | ✅ Completed| ✅ Completed |https://lnkd.in/p/dwgJu-3A|-|https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
