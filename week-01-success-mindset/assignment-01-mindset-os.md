@@ -375,12 +375,13 @@ I will follow a daily 90-minute focused learning system from Monday to Thursday 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
-https://lnkd.in/p/d556NFMy
+https://www.linkedin.com/feed/update/urn:li:activity:7504937420841254912/
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL:https://lnkd.in/p/d556NFMy
+- LinkedIn Post URL:https://www.linkedin.com/feed/update/urn:li:activity:7504937420841254912/
+
 - Blog / Medium :https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub
 ## My Version 2.0: From Student to Cloud and DevOps Engineer
 
@@ -425,4 +426,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*
+*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track*git
