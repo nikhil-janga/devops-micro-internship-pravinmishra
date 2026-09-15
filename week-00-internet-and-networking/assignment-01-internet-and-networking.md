@@ -218,7 +218,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-https://lnkd.in/p/dwgJu-3A
+https://lnkd.in/p/d556NFMy
 
 ## LinkedIn Post Backup Copy
 

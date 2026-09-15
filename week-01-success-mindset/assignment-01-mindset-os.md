@@ -166,7 +166,7 @@ My Version 2.0 was not created by one major achievement. It was built through hu
 
 Paste your link here:
 
-https://medium.com/@janganikhil2005/week-0-of-my-devops-micro-internship-internet-networking-application-architecture-1630a3268dd3?postPublishedType=initial
+https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub
 
 ---
 
@@ -352,7 +352,7 @@ Examples:
 * Environment setup
 
 #### My Distraction Rules
- Keep my phone away from my workspace during deep-work sessions.
+Keep my phone away from my workspace during deep-work sessions.
 Avoid social media during scheduled study time.
 Use only the browser tabs and applications required for the current task.
 Do not switch between multiple unrelated topics during a focus block.
@@ -375,13 +375,13 @@ I will follow a daily 90-minute focused learning system from Monday to Thursday 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
-https://lnkd.in/p/dwgJu-3A
+https://lnkd.in/p/d556NFMy
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL:https://lnkd.in/p/dwgJu-3A
-- Blog / Medium :https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub 
+- LinkedIn Post URL:https://lnkd.in/p/d556NFMy
+- Blog / Medium :https://medium.com/@janganikhil2005/my-version-2-0-from-student-to-cloud-and-devops-engineer-8e5531488b7b?postPublishedType=repub
 ## My Version 2.0: From Student to Cloud and DevOps Engineer
 
 Three to seven years from now, I had built a strong career as a Cloud and DevOps Engineer by consistently developing my technical skills and gaining practical industry experience. My journey started with learning the fundamentals of programming, cloud computing, networking, Linux, databases, cybersecurity, and software development. Instead of limiting myself to theoretical knowledge, I focused on building projects and documenting what I learned.
